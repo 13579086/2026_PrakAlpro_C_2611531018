@@ -1,0 +1,12 @@
+#program pertama
+"""
+komentar
+dua baris atau lebih
+pertemuan 1 praktikum labor
+"""
+print("Hello World")
+print()
+print("Departemen Informatika")
+print("Universitas Andalas")
+print("/ \\ // \\\\ /// \\\\\\")
+print("program ini" + " dibuat oleh a\\n " + "Habib Alhakim 2611531018")
