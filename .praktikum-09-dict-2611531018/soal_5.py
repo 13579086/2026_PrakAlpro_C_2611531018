@@ -9,7 +9,7 @@ for _ in range(n):
 
 for nama, total in kas.items():
     print(f"{nama}: {total}")
-
+5
 total_kas = sum(kas.values())
 print(f"Total cash: {total_kas}")
 
