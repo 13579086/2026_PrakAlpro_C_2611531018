@@ -1,7 +1,7 @@
 n = int(input())
 kas = {}
 
-for _ in range(n):
+for apapun in range(n):
     bagian = input().split()
     nama = bagian[0]
     nominal = int(bagian[1])
